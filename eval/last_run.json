@@ -1,0 +1,371 @@
+{
+  "results": [
+    {
+      "id": "E1",
+      "expected": "answer",
+      "abstained": false,
+      "lang": "en",
+      "max_score": 0.8648,
+      "verdicts": {
+        "SUPPORTED": 1,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "The Premium 3-Piece Lawn Suit with floral print costs 3,450 PKR per suit [1].",
+      "pass_": true,
+      "reason": "1/1 SUPPORTED"
+    },
+    {
+      "id": "E2",
+      "expected": "answer",
+      "abstained": false,
+      "lang": "en",
+      "max_score": 0.7454,
+      "verdicts": {
+        "SUPPORTED": 1,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "Our shop is open on Friday from 10:00 AM to 9:00 PM, with a break between 1:00 PM and 3:00 PM [1]",
+      "pass_": true,
+      "reason": "1/1 SUPPORTED"
+    },
+    {
+      "id": "E3",
+      "expected": "answer",
+      "abstained": false,
+      "lang": "en",
+      "max_score": 0.6302,
+      "verdicts": {
+        "SUPPORTED": 1,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "Yes, we deliver to homes in Faisalabad. It costs Rs 200, but delivery is FREE for orders over Rs 5,000. [1]",
+      "pass_": true,
+      "reason": "1/1 SUPPORTED"
+    },
+    {
+      "id": "E4",
+      "expected": "answer",
+      "abstained": false,
+      "lang": "en",
+      "max_score": 0.77,
+      "verdicts": {
+        "SUPPORTED": 1,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "Gold, silver grey, and royal blue [1]",
+      "pass_": true,
+      "reason": "1/1 SUPPORTED"
+    },
+    {
+      "id": "E5",
+      "expected": "answer",
+      "abstained": false,
+      "lang": "en",
+      "max_score": 0.4961,
+      "verdicts": {
+        "SUPPORTED": 1,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "Exchange is allowed within 7 days with the original receipt; sale items cannot be returned, and fabric once cut cannot be returned. [1]",
+      "pass_": true,
+      "reason": "1/1 SUPPORTED"
+    },
+    {
+      "id": "E6",
+      "expected": "answer",
+      "abstained": false,
+      "lang": "en",
+      "max_score": 0.7451,
+      "verdicts": {
+        "SUPPORTED": 1,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "Heavy Khaddar is 550 PKR per meter. [1]",
+      "pass_": true,
+      "reason": "1/1 SUPPORTED"
+    },
+    {
+      "id": "E7",
+      "expected": "answer",
+      "abstained": false,
+      "lang": "en",
+      "max_score": 0.5083,
+      "verdicts": {
+        "SUPPORTED": 1,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "No, we don’t accept credit cards. [1]",
+      "pass_": true,
+      "reason": "1/1 SUPPORTED"
+    },
+    {
+      "id": "E8",
+      "expected": "answer",
+      "abstained": false,
+      "lang": "en",
+      "max_score": 0.4912,
+      "verdicts": {
+        "SUPPORTED": 1,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "Shop #12, Chenab Market, Susan Road, Faisalabad, near Ghanta Ghar (Clock Tower), opposite the main parking. [1]",
+      "pass_": true,
+      "reason": "1/1 SUPPORTED"
+    },
+    {
+      "id": "U1",
+      "expected": "answer",
+      "abstained": false,
+      "lang": "ur",
+      "max_score": 0.721,
+      "verdicts": {
+        "SUPPORTED": 2,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "Lawn ka 3‑piece suit 2,950 rupay per suit hai [1] aur luxury embroidery wala 4,200 rupay per suit hai [3]",
+      "pass_": true,
+      "reason": "2/2 SUPPORTED"
+    },
+    {
+      "id": "U2",
+      "expected": "answer",
+      "abstained": false,
+      "lang": "ur",
+      "max_score": 0.7392,
+      "verdicts": {
+        "SUPPORTED": 1,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "2,800 rupay per suit [1]",
+      "pass_": true,
+      "reason": "1/1 SUPPORTED"
+    },
+    {
+      "id": "U3",
+      "expected": "answer",
+      "abstained": false,
+      "lang": "ur",
+      "max_score": 0.7367,
+      "verdicts": {
+        "SUPPORTED": 1,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "Dukan Monday se Saturday subah 10 baje se raat 9 baje tak khuli rehti hai, Friday ko 1 se 3 baje tak waqfa hota hai, Itwar ko chhutti hai [1]",
+      "pass_": true,
+      "reason": "1/1 SUPPORTED"
+    },
+    {
+      "id": "U4",
+      "expected": "answer",
+      "abstained": false,
+      "lang": "ur",
+      "max_score": 0.4515,
+      "verdicts": {
+        "SUPPORTED": 2,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "Bhari khaddar 550 rupay per meter [3] aur Slub khaddar 620 rupay per meter [5].",
+      "pass_": true,
+      "reason": "2/2 SUPPORTED"
+    },
+    {
+      "id": "U5",
+      "expected": "answer",
+      "abstained": false,
+      "lang": "ur",
+      "max_score": 0.7279,
+      "verdicts": {
+        "SUPPORTED": 1,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "Haan, embroidered chiffon 3‑piece suit hai aur uski keemat 8,500 PKR per suit hai [1]",
+      "pass_": true,
+      "reason": "1/1 SUPPORTED"
+    },
+    {
+      "id": "U6",
+      "expected": "answer",
+      "abstained": false,
+      "lang": "ur",
+      "max_score": 0.6425,
+      "verdicts": {
+        "SUPPORTED": 1,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "Lawn ka dupatta alag se milta hai, keemat 650 rupay per piece hai. [1]",
+      "pass_": true,
+      "reason": "1/1 SUPPORTED"
+    },
+    {
+      "id": "U7",
+      "expected": "answer",
+      "abstained": false,
+      "lang": "ur",
+      "max_score": 0.8003,
+      "verdicts": {
+        "SUPPORTED": 1,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "Silk ka 2‑piece party wear suit 6,800 PKR per suit hai aur colors black, maroon, aur bottle green hain [1][2]",
+      "pass_": true,
+      "reason": "1/1 SUPPORTED"
+    },
+    {
+      "id": "U8",
+      "expected": "answer",
+      "abstained": false,
+      "lang": "ur",
+      "max_score": 0.5496,
+      "verdicts": {
+        "SUPPORTED": 1,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "10% discount milta hai [1]",
+      "pass_": true,
+      "reason": "1/1 SUPPORTED"
+    },
+    {
+      "id": "N1",
+      "expected": "abstain",
+      "abstained": true,
+      "lang": "en",
+      "max_score": 0.3211,
+      "verdicts": {
+        "SUPPORTED": 0,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "I don't have verified information on this, so I won't guess — the shop owner will confirm shortly.",
+      "pass_": true,
+      "reason": "abstained + escalation logged"
+    },
+    {
+      "id": "N2",
+      "expected": "abstain",
+      "abstained": true,
+      "lang": "ur",
+      "max_score": 0.4218,
+      "verdicts": {
+        "SUPPORTED": 0,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "Mujhe is baare mein tasdeeq shuda maloomat nahi hain, is liye main andaza nahi lagaunga — dukan ke malik jald tasdeeq kar ke jawab dein ge.",
+      "pass_": true,
+      "reason": "abstained + escalation logged"
+    },
+    {
+      "id": "N3",
+      "expected": "abstain",
+      "abstained": true,
+      "lang": "en",
+      "max_score": 0.3553,
+      "verdicts": {
+        "SUPPORTED": 0,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "I don't have verified information on this, so I won't guess — the shop owner will confirm shortly.",
+      "pass_": true,
+      "reason": "abstained + escalation logged"
+    },
+    {
+      "id": "N4",
+      "expected": "abstain",
+      "abstained": true,
+      "lang": "ur",
+      "max_score": 0.4628,
+      "verdicts": {
+        "SUPPORTED": 0,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "Mujhe is baare mein tasdeeq shuda maloomat nahi hain, is liye main andaza nahi lagaunga — dukan ke malik jald tasdeeq kar ke jawab dein ge.",
+      "pass_": true,
+      "reason": "abstained + escalation logged"
+    },
+    {
+      "id": "A1",
+      "expected": "refute",
+      "abstained": false,
+      "lang": "en",
+      "max_score": 0.6448,
+      "verdicts": {
+        "SUPPORTED": 1,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "No, the Premium 3-Piece Lawn Suit costs 3,450 PKR per suit [1].",
+      "pass_": true,
+      "reason": "did not affirm false premise (negation=True, true_price=True)"
+    },
+    {
+      "id": "A2",
+      "expected": "refute",
+      "abstained": false,
+      "lang": "en",
+      "max_score": 0.6727,
+      "verdicts": {
+        "SUPPORTED": 2,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "No, the Cambric Cotton 3‑Piece is 2,750 PKR per suit [1], while the Cotton Satin 3‑Piece is 3,850 PKR per suit [2].",
+      "pass_": true,
+      "reason": "did not affirm false premise (negation=True, true_price=True)"
+    },
+    {
+      "id": "A3",
+      "expected": "refute",
+      "abstained": true,
+      "lang": "en",
+      "max_score": 0.5494,
+      "verdicts": {
+        "SUPPORTED": 0,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "I don't have verified information on this, so I won't guess — the shop owner will confirm shortly.",
+      "pass_": true,
+      "reason": "safe abstain on adversarial"
+    },
+    {
+      "id": "A4",
+      "expected": "refute",
+      "abstained": false,
+      "lang": "ur",
+      "max_score": 0.6921,
+      "verdicts": {
+        "SUPPORTED": 1,
+        "CONTRADICTED": 0,
+        "UNVERIFIABLE": 0
+      },
+      "reply": "Nahi, lawn ka 3 piece suit 2,950 rupay ka hai [2]",
+      "pass_": true,
+      "reason": "did not affirm false premise (negation=True, true_price=True)"
+    }
+  ],
+  "metrics": {
+    "grounding": 100.0,
+    "abstention_precision": 100.0,
+    "adversarial": 100.0,
+    "citation_coverage": 79.16666666666666,
+    "overall": "24/24"
+  }
+}

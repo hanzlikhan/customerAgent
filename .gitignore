@@ -1,0 +1,35 @@
+# Environment variables & secrets (CRITICAL: NEVER COMMIT)
+.env
+.env.local
+.env.*.local
+*.env
+
+# Python virtual environment & runtime artifacts
+venv/
+env/
+ENV/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Local SQLite databases & vector index cache
+data/dukaanai.db
+data/chroma/
+*.sqlite3
+*.db
+
+# IDE & Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing & temporary logs
+.cache/
+.pytest_cache/
+*.log
+tmp/
+phase2_results.json

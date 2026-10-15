@@ -1,0 +1,17 @@
+# DukaanAI dependencies — minimum versions only, all free / open-source.
+# Install: pip install -r requirements.txt
+
+langchain>=0.3
+langchain-groq>=0.2
+langchain-community>=0.3
+langgraph>=0.2
+sentence-transformers>=3.0
+chromadb>=0.5
+streamlit>=1.38
+fastapi>=0.115
+uvicorn>=0.30
+python-dotenv>=1.0
+pandas>=2.2
+openpyxl>=3.1
+pytesseract>=0.3.10
+pillow>=10.0

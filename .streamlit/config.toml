@@ -1,0 +1,12 @@
+# Streamlit theme — matches the DukaanAI brand green used in app.py.
+[theme]
+primaryColor = "#128C7E"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#101828"
+font = "sans serif"
+
+[server]
+# The agent can take a few seconds per turn (two Groq calls + verification).
+# Keep the websocket alive for slow first loads (embedding model download).
+headless = true

@@ -1,0 +1,5 @@
+# System packages for Streamlit Community Cloud (apt).
+# tesseract-ocr powers the photo rate-list OCR in catalog onboarding.
+# Without it, spreadsheet upload still works but photo upload shows a
+# friendly "tesseract not installed" error.
+tesseract-ocr

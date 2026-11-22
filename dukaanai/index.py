@@ -123,6 +123,19 @@ def build_index(business_id: int) -> int:
     return len(chunks)
 
 
+def count_chunks(business_id: int) -> int:
+    """Chunks in the persisted index; 0 when the collection is missing."""
+    try:
+        client = _get_client()
+        collection = client.get_collection(
+            name=_collection_name(business_id),
+            embedding_function=_get_embedding_fn(),
+        )
+        return collection.count()
+    except Exception:
+        return 0
+
+
 def retrieve(business_id: int, query: str, k: int = 5) -> list[dict]:
     """Return top-k chunks as {text, metadata, similarity} (similarity 0..1)."""
     client = _get_client()

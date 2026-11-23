@@ -1,3 +1,14 @@
+---
+title: DukaanAI API
+emoji: 🏪
+colorFrom: green
+colorTo: emerald
+sdk: gradio
+sdk_version: 6.32.0
+app_file: app.py
+pinned: false
+---
+
 <div align="center">
 
 # 🛍️ DukaanAI — Grounded Bilingual AI Receptionist
